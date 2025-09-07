@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Lautaro Zuleta 👋
 
 <!--
 **LautaroZ01/LautaroZ01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
