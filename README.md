@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Lautaro Zuleta
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
 🎓 Estudiante de **Tecnicatura Universitaria en Programación** en la **Universidad Nacional de Salta (UNSA)**.  
