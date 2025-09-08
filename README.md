@@ -55,7 +55,6 @@
 
 ## 📬 Contact  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lautaro-zuleta/)  
-- 🖤 [GitHub](https://github.com/LautaroZ01)  
 - 📧 **Email:** lautarozule80@gmail.com  
 
 ---
