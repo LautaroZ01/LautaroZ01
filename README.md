@@ -58,7 +58,7 @@
 
 ## 🌎 Languages
 * **Spanish:** Native
-* **English:** Upper Intermediate (B2)
+* **English:** Upper Intermediate (B1)
 
 ---
 
