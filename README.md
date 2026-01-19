@@ -4,7 +4,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-🎓 Student of **University Technical Degree in Programming** at **Universidad Nacional de Salta (UNSA)**.  
+🎓 **University Technical Degree in Programming** at **Universidad Nacional de Salta (UNSA)**.  
 💻 Passionate about **web development**, currently working on **personal projects** to keep improving my skills.  
 🚀 My goal is to grow as a **Full Stack Web Developer**, mastering both frontend and backend.  
 
